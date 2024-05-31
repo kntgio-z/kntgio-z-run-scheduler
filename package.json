@@ -1,6 +1,6 @@
 {
   "name": "kntgio-z.run-scheduler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This npm package runs schedules through node-scheduler, which provides a modular approach to handling schedules by plugging in schedule methods.",
   "main": "index.js",
   "types": "index.d.ts",
