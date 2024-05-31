@@ -1,6 +1,6 @@
 {
   "name": "kntgio-z-run-scheduler",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "This npm package runs schedules through node-scheduler, which provides a modular approach to handling schedules by plugging in schedule methods.",
   "main": "index.js",
   "types": "index.d.ts",
@@ -33,10 +33,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/kntgio-z/run-scheduler.git"
+    "url": "https://github.com/kntgio-z/kntgio-z-run-scheduler.git"
   },
   "bugs": {
-    "url": "https://github.com/kntgio-z/run-scheduler/issues"
+    "url": "https://github.com/kntgio-z/kntgio-z-run-scheduler/issues"
   },
-  "homepage": "https://github.com/kntgio-z/run-scheduler"
+  "homepage": "https://github.com/kntgio-z/kntgio-z-run-scheduler#README"
 }
